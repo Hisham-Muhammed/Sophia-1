@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Jishnu═💥*\n\n*💘      *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    
 
     
 
@@ -55,8 +55,7 @@ if (Config.WORKTYPE == 'private') {
     var r_text = new Array ();
 
     
-
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Jishnu - http://Wa.me/+917559963483*\n*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Jishnu D CRuz*"
 
     
 
@@ -72,7 +71,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner jishnu═💥*\n\n*💘     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    
 
     
 
